@@ -1,1 +1,1 @@
-print('new')
+print('Python 1.0')
